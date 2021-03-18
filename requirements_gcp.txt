@@ -1,0 +1,4 @@
+pandas
+jupyterlab
+google-cloud-speech
+google-cloud-storage
