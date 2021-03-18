@@ -1,0 +1,3 @@
+data/audios/*
+.ipynb_checkpoints
+venv
