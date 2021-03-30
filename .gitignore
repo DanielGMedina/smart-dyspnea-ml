@@ -1,9 +1,7 @@
 data/audios/*
 data/*.wav
 data/*.mp3
-
-*.wav
-*.mp3
+data/ml_data.json
 
 # caches
 .jekyll-cache/
