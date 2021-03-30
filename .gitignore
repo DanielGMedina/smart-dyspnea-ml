@@ -1,3 +1,58 @@
 data/audios/*
-.ipynb_checkpoints
+data/*.wav
+data/*.mp3
+
+*.wav
+*.mp3
+
+# caches
+.jekyll-cache/
+_site
+
+# Environment
 venv
+
+# IDE
+.idea
+.vscode
+
+# git
+.gitattributes
+.gitconfig
+
+# osx generated files
+.DS_Store
+.DS_Store?
+.Trashes
+
+
+# Byte-compiled / optimized / DLL files
+*__pycache__*
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.last_checked
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
